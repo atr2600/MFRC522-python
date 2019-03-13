@@ -8,9 +8,6 @@ It might not work as intended on more recent Raspberry Pi devices. You might wan
 take a look to the open pull-requests and forks to see other implementations and bug-fixes.
 
 ## Requirements
-This code requires you to have SPI-Py installed from the following repository:
-https://github.com/lthiery/SPI-Py
-
 ```
 sudo apt-get install python2.7-dev python-pip git
 sudo pip install spidev
